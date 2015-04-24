@@ -15,6 +15,8 @@ import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
 
+
+/*¿©’πImgaeView“‘œ‘ ægifÕº∆¨*/
 public class AnimImageView extends ImageView implements
 	android.view.View.OnClickListener {
 
